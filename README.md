@@ -40,7 +40,7 @@ Final Exam
 
 Class Participation
 
-Technology used
+Technology used -
 
 the student grade tracker uses the 
 
